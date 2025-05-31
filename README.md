@@ -3,8 +3,6 @@
 📌 Sobre o Software
 ✅ Finalidade: Aplicativo para controle de fluxo de caixa, desenvolvido em C# como projeto educacional.
 
-🚫 Restrição: Proibida a comercialização – uso exclusivo para fins de aprendizado.
-
 💡 Características: Intuitivo, simples e funcional.
 
 🛠️ Configurações Técnicas
